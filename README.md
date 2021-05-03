@@ -1,5 +1,10 @@
 # Stock-Market-Closing-Price-Prediction---Python 
-![sample data](https://github.com/spencewalde/Stock-Market-Closing-Price-Prediction---Python/blob/af96e18aa998d11e8aaad477a096dc2c681fd103/graph%20TMUS.PNG "Sample Stock Price Prediction Data For Costco")
+
+## T-Mobile test predictions
+![sample data](https://github.com/spencewalde/Stock-Market-Closing-Price-Prediction---Python/blob/af96e18aa998d11e8aaad477a096dc2c681fd103/graph%20TMUS.PNG "Sample Stock Price Prediction Data For T-Mobile")
+
+## Costco test predictions
+![sample data](https://github.com/spencewalde/Stock-Market-Closing-Price-Prediction---Python/blob/6413fe6482dbd0674d526fe63548252824d3bdc0/graph%20cost.PNG "Sample Stock Price Prediction Data For Costco")
 
 # Description
 ### Languages/Tools/libraries
