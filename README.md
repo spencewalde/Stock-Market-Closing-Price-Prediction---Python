@@ -1,6 +1,6 @@
 # Stock-Market-Closing-Price-Prediction---Python
 Inline-style: 
-![sample data](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Sample Stock Price Prediction Data For Costco")
+![sample data](https://github.com/spencewalde/Stock-Market-Closeing-Price-Prediction/raw/master/src/common/images/graph_tmus.png "Sample Stock Price Prediction Data For Costco")
 # Description
 ### Languages/Tools/libraries
 
