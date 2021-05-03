@@ -1,6 +1,6 @@
 # Stock-Market-Closing-Price-Prediction---Python 
-![sample data](https://https://github.com/spencewalde/Stock-Market-Closing-Price-Prediction---Python/blob/main/graph%20TMUS.PNG "Sample Stock Price Prediction Data For Costco")
-graph TMUS.PNG
+![sample data](https://github.com/spencewalde/Stock-Market-Closing-Price-Prediction---Python/blob/af96e18aa998d11e8aaad477a096dc2c681fd103/graph%20TMUS.PNG "Sample Stock Price Prediction Data For Costco")
+
 # Description
 ### Languages/Tools/libraries
 
